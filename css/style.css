@@ -1,0 +1,284 @@
+/*box-sizing to border-box change*/
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+/*website body*/
+body {
+    background-color: black;
+    font-family: sans-serif;
+    font-size: 16px;
+    color: black;
+    width: auto;
+}
+
+/*mobile app body*/
+.container {
+    margin: 0 auto;
+    width: 375px;
+    height: 667px;
+    background-color: #E0E0E0;
+}
+
+
+/*NavBar Content*/
+nav {
+    padding: 5px;
+    background-color: #003470;
+    height: 50px;
+    width: 375px;
+}
+
+
+div.arrow-left {
+    color: #FFFFFF;
+    margin: 0px;
+    padding-top: 5px;
+    padding-left: 10px;
+    height: 0px;
+    width: 0px;
+}
+
+/*Images*/
+.statusbar {
+  background-image: url(images/.png);
+  background-position: top;
+  display: block;
+}
+
+/*BusList*/
+div#main {
+  background-color: #E0E0E0;
+  font-family: "SF Pro Text", sans-serif;
+  font-size: 1em;
+  margin: 0 auto 0 auto;
+  width: 375px;
+  height: 375px;
+  overflow: scroll;
+}
+
+div#main:hover {
+  background-color: #b3b3b3;
+  cursor: pointer;
+}
+
+
+/*the total height for all routes is 675*/
+  background-color: white;
+  border-bottom: 1px solid #E0E0E0;
+  color: #4A4A4A;
+  font-size: .75em;
+  font-weight: 400;
+  padding: 5px;
+  height: 75px;
+  width: 375px;
+}
+
+.busroute1 {
+  background-color: white;
+  border-bottom: 1px solid #E0E0E0;
+  color: #003470;
+  font-size: .75em;
+  font-weight: 400;
+  padding: 5px;
+  height: 75px;
+  width: 375px;
+}
+
+.busroute2 {
+  background-color: white;
+  border-bottom: 1px solid #E0E0E0;
+  color: #003470;
+  font-size: .75em;
+  font-weight: 400;
+  padding: 5px;
+  height: 75px;
+  width: 375px;
+}
+
+.busroute3 {
+  background-color: white;
+  border-bottom: 1px solid #E0E0E0;
+  color: #003470;
+  font-size: .75em;
+  font-weight: 400;
+  padding: 5px;
+  height: 75px;
+  width: 375px;
+}
+
+.busroute4 {
+  background-color: white;
+  border-bottom: 1px solid #E0E0E0;
+  color: #003470;
+  font-size: .75em;
+  font-weight: 400;
+  padding: 5px;
+  height: 75px;
+  width: 375px;
+}
+
+.busroute5 {
+  background-color: white;
+  border-bottom: 1px solid #E0E0E0;
+  color: #003470;
+  font-size: .75em;
+  font-weight: 400;
+  padding: 5px;
+  height: 75px;
+  width: 375px;
+}
+
+.busroute6 {
+  background-color: white;
+  border-bottom: 1px solid #E0E0E0;
+  color: #003470;
+  font-size: .75em;
+  font-weight: 400;
+  padding: 5px;
+  height: 75px;
+  width: 375px;
+}
+
+.busroute7 {
+  background-color: white;
+  border-bottom: 1px solid #E0E0E0;
+  color: #003470;
+  font-size: .75em;
+  font-weight: 400;
+  padding: 5px;
+  height: 75px;
+  width: 375px;
+}
+
+.busroute8 {
+  background-color: white;
+  border-bottom: 1px solid #E0E0E0;
+  color: #003470;
+  font-size: .75em;
+  font-weight: 400;
+  padding: 5px;
+  height: 75px;
+  width: 375px;
+}
+
+.busroute9 {
+  background-color: white;
+  border-bottom: 1px solid #E0E0E0;
+  color: #003470;
+  font-size: .75em;
+  font-weight: 400;
+  padding: 5px;
+  height: 75px;
+  width: 375px;
+}
+
+
+/*Busroute Content*/
+div.busstop {
+  padding: 20px 0 0 10px;
+  margin: 0;
+  float: left;
+}
+
+div.line {
+  padding: 18px 0 0 10px;
+  margin: 0;
+  float: left;
+  text-align: left;
+}
+
+div.destination {
+  padding: 11px 0 0 15px;
+  margin: 0;
+  float: left;
+  text-align: left;
+}
+
+div.arrivaltime {
+  padding: 11px 8px 0 0;
+  margin: 0;
+  float: right;
+  text-align: center;
+}
+
+div.arrivaltimeNA {
+  padding: 17px 8px 0 0;
+  margin: 0;
+  float: right;
+  text-align: center;
+}
+
+div.arrivalresumes {
+  padding: 10px 5px 0 0;
+  margin: 0;
+  float: right;
+  text-align: center;
+}
+
+div.chevron-right {
+    color: #C7C7C7;
+    margin: 0px;
+    padding: 14px 20px 0 0;
+    height: 0px;
+    width: 0px;
+    float: right;
+}
+
+/*Fonts*/
+/*Washington and State*/
+h1 {
+  font-size: 1.4em;
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-weight: 550;
+}
+
+/*arrivaltime - BusMin*/
+h2 {
+background-color: #FFFFFF;
+color: #4A4A4A;
+font-size: 1.2em;
+font-weight: 550;
+margin: 0px;
+padding: 5px;
+}
+
+/*line*/
+h3 {
+background-color: #FFFFFF;
+color: #4A4A4A;
+font-size: 1.2em;
+font-weight: 400;
+margin: auto;
+padding:5px;
+}
+
+/*destination*/
+h4 {
+background-color: #FFFFFF;
+color: #003470;
+font-size: 1.1em;
+font-weight: 400;
+margin: 0px;
+padding: 5px;
+}
+
+/*busbar*/
+h5 {
+background-color: #003470;
+color: #FFFFFF;
+font-size: .90em;
+font-weight: 550;
+margin: 0px;
+padding-bottom: 5px;
+}
+
+
+h4 {
+  letter-spacing: .09em;
+}
+
+h4 {
+  line-height: 1.2em;
+}
