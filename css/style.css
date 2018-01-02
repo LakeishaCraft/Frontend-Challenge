@@ -36,7 +36,7 @@ div.arrow-left {
 
 
 .statusbar {
-  background-image: url(images/statusbar.png);
+  background-image: url(images/StatusBar.png);
   background-position: top;
   display: block;
 }
@@ -48,8 +48,7 @@ div#main {
   font-size: 1em;
   margin: 0 auto 0 auto;
   width: 375px;
-  height: 375px;
-  overflow: scroll;
+  height: 667px;
 }
 
 div#main:hover {
@@ -269,7 +268,7 @@ padding-bottom: 5px;
 }
 
 h4 {
-  letter-spacing: .09em;
+  letter-spacing: 1.0em;
 }
 
 h4 {
