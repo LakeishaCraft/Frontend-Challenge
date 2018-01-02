@@ -2,11 +2,11 @@
 *, *:before, *:after {
   box-sizing: border-box;
 }
-/*website body*/
+
 body {
     background-color: ;
     font-family: "SF Pro Text", sans-serif;
-    font-size: 16px;
+    font-size: 17px;
     color: black;
     width: auto;
 }
@@ -34,7 +34,7 @@ div.arrow-left {
     width: 0px;
 }
 
-/*Images*/
+
 .statusbar {
   background-image: url(images/statusbar.png);
   background-position: top;
@@ -57,8 +57,6 @@ div#main:hover {
   cursor: pointer;
 }
 
-
-/*Height for 
   background-color: white;
   border-bottom: 1px solid #E0E0E0;
   color: #4A4A4A;
@@ -169,7 +167,7 @@ div#main:hover {
 }
 
 
-/*Busroute Content*/
+
 div.busstop {
   padding: 20px 0 0 10px;
   margin: 0;
