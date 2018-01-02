@@ -14,7 +14,7 @@ body {
 .container {
     margin: 0 auto;
     width: 375px;
-    height: 375px;
+    height: 667px;
     background-color: #E0E0E0;
 }
 
@@ -268,7 +268,7 @@ padding-bottom: 5px;
 }
 
 h4 {
-  letter-spacing: 0.9em;
+  letter-spacing: 0.09em;
 }
 
 h4 {
