@@ -14,7 +14,7 @@ body {
 .container {
     margin: 0 auto;
     width: 375px;
-    height: 667px;
+    height: 375px;
     background-color: #E0E0E0;
 }
 
@@ -58,7 +58,7 @@ div#main:hover {
 
   background-color: white;
   border-bottom: 1px solid #E0E0E0;
-  color: #4A4A4A;
+  color: #003470;
   font-size: .75em;
   font-weight: 400;
   padding: 5px;
@@ -257,7 +257,7 @@ margin: 0px;
 padding: 5px;
 }
 
-/*busbar*/
+/*statusbar*/
 h5 {
 background-color: #003470;
 color: #FFFFFF;
