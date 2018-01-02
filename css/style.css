@@ -4,14 +4,13 @@
 }
 /*website body*/
 body {
-    background-color: black;
-    font-family: sans-serif;
+    background-color: ;
+    font-family: "SF Pro Text", sans-serif;
     font-size: 16px;
     color: black;
     width: auto;
 }
 
-/*mobile app body*/
 .container {
     margin: 0 auto;
     width: 375px;
@@ -19,15 +18,12 @@ body {
     background-color: #E0E0E0;
 }
 
-
-/*NavBar Content*/
 nav {
     padding: 5px;
     background-color: #003470;
     height: 50px;
     width: 375px;
 }
-
 
 div.arrow-left {
     color: #FFFFFF;
@@ -40,7 +36,7 @@ div.arrow-left {
 
 /*Images*/
 .statusbar {
-  background-image: url(images/.png);
+  background-image: url(images/statusbar.png);
   background-position: top;
   display: block;
 }
@@ -62,7 +58,7 @@ div#main:hover {
 }
 
 
-/*the total height for all routes is 675*/
+/*Height for 
   background-color: white;
   border-bottom: 1px solid #E0E0E0;
   color: #4A4A4A;
@@ -224,7 +220,7 @@ div.chevron-right {
     float: right;
 }
 
-/*Fonts*/
+
 /*Washington and State*/
 h1 {
   font-size: 1.4em;
@@ -273,7 +269,6 @@ font-weight: 550;
 margin: 0px;
 padding-bottom: 5px;
 }
-
 
 h4 {
   letter-spacing: .09em;
