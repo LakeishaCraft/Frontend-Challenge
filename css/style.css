@@ -1,13 +1,13 @@
-/*box-sizing to border-box change*/
+
 *, *:before, *:after {
   box-sizing: border-box;
 }
 
 body {
-    background-color: ;
+    background-color: #000000;
     font-family: "SF Pro Text", sans-serif;
-    font-size: 17px;
-    color: black;
+    font-size: 16px;
+    color: ;
     width: auto;
 }
 
@@ -21,9 +21,10 @@ body {
 nav {
     padding: 5px;
     background-color: #003470;
-    height: 50px;
+    height: 85px;
     width: 375px;
 }
+
 
 div.arrow-left {
     color: #FFFFFF;
@@ -36,10 +37,19 @@ div.arrow-left {
 
 
 .statusbar {
-  background-image: url(images/StatusBar.png);
+  background-image: url(images/statusbar.png);
   background-position: top;
+  background-color: #003470;
   display: block;
 }
+
+.board {
+    background-color: #E0E0E0;
+    color: #003470;
+    margin-bottom: 10px;
+    padding: 10px;
+    height: 20px;
+    width: 375px;
 
 /*BusList*/
 div#main {
@@ -49,21 +59,12 @@ div#main {
   margin: 0 auto 0 auto;
   width: 375px;
   height: 375px;
+  overflow: scroll;
 }
 
 div#main:hover {
   background-color: #b3b3b3;
   cursor: pointer;
-}
-
-  background-color: white;
-  border-bottom: 1px solid #E0E0E0;
-  color: #003470;
-  font-size: .75em;
-  font-weight: 400;
-  padding: 5px;
-  height: 75px;
-  width: 375px;
 }
 
 .busroute1 {
@@ -156,7 +157,7 @@ div#main:hover {
 
 .busroute9 {
   background-color: white;
-  border-bottom: 1px solid #E0E0E0;
+  border-bottom: 1px solid #C7C7C7;
   color: #003470;
   font-size: .75em;
   font-weight: 400;
@@ -166,7 +167,7 @@ div#main:hover {
 }
 
 
-
+/*Busroute details*/
 div.busstop {
   padding: 20px 0 0 10px;
   margin: 0;
@@ -181,7 +182,7 @@ div.line {
 }
 
 div.destination {
-  padding: 11px 0 0 15px;
+  padding: 12px 0 0 15px;
   margin: 0;
   float: left;
   text-align: left;
@@ -208,7 +209,7 @@ div.arrivalresumes {
   text-align: center;
 }
 
-div.chevron-right {
+div.arrow-right {
     color: #C7C7C7;
     margin: 0px;
     padding: 14px 20px 0 0;
@@ -216,7 +217,6 @@ div.chevron-right {
     width: 0px;
     float: right;
 }
-
 
 /*Washington and State*/
 h1 {
@@ -267,8 +267,9 @@ margin: 0px;
 padding-bottom: 5px;
 }
 
+
 h4 {
-  letter-spacing: 0.09em;
+  letter-spacing: .09em;
 }
 
 h4 {
