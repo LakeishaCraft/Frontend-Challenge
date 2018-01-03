@@ -6,7 +6,7 @@
 body {
     background-color: #000000;
     font-family: sans-serif;
-    font-size: 17px;
+    font-size: 16px;
     color: #003470;
     width: auto;
 }
@@ -196,7 +196,7 @@ div.frequency {
 }
 
 div.frequencyNA {
-  padding: 11px 8px 0 0;
+  padding: 17px 8px 0 0;
   margin: 0;
   float: right;
   text-align: right;
