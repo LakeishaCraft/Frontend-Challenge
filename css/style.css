@@ -5,9 +5,9 @@
 
 body {
     background-color: #000000;
-    font-family: "SF Pro Text", sans-serif;
+    font-family: sans-serif;
     font-size: 16px;
-    color: ;
+    color: #FFFFFF;
     width: auto;
 }
 
@@ -44,17 +44,17 @@ div.arrow-left {
 }
 
 .board {
-    background-color: #E0E0E0;
-    color: #003470;
+    background-color: #003470;
+    color: #FFFFFF;
     margin-bottom: 10px;
-    padding: 10px;
-    height: 20px;
+    padding: 5px;
+    height: 30px;
     width: 375px;
 
 /*BusList*/
 div#main {
   background-color: #E0E0E0;
-  font-family: "SF Pro Text", sans-serif;
+  font-family: sans-serif;
   font-size: 1em;
   margin: 0 auto 0 auto;
   width: 375px;
@@ -220,10 +220,10 @@ div.arrow-right {
 
 /*Washington and State*/
 h1 {
-  font-size: 1.4em;
+  font-size: 1.8em;
   margin: 0px;
   padding: 5px;
-  text-align: center;
+  text-align: right;
   font-weight: 550;
 }
 
