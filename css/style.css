@@ -2,8 +2,8 @@ body {
   background-color: #E0E0E0;
   font-family: sans-serif;
   font-size: 12px;
-  color: #003470;
   width: auto;
+  color: #003470;
 }
 
 .container {
@@ -15,9 +15,16 @@ nav {
   margin: 0 auto; 
   padding: 10px 0 15px 15px;
   background-color: #003470;
-  height: 85px;
+  height: 75px;
   position: fixed;
   width: 375px;
+}
+
+.statusbar {
+  background-image: url(images/statusbar.png);
+  background-position: top;
+  background-color: #003470;
+  display: block;
 }
 
 .bus-route {
