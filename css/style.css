@@ -136,7 +136,7 @@ div#main:hover {
 .busroute7 {
   background-color: white;
   border-bottom: 1px solid #E0E0E0;
-  color: #003470;
+  color: #FFFFFF;
   font-size: .75em;
   font-weight: 400;
   padding: 5px;
@@ -147,7 +147,7 @@ div#main:hover {
 .busroute8 {
   background-color: white;
   border-bottom: 1px solid #E0E0E0;
-  color: #003470;
+  color: #FFFFFF;
   font-size: .75em;
   font-weight: 400;
   padding: 5px;
@@ -158,7 +158,7 @@ div#main:hover {
 .busroute9 {
   background-color: white;
   border-bottom: 1px solid #C7C7C7;
-  color: #003470;
+  color: #FFFFFF;
   font-size: .75em;
   font-weight: 400;
   padding: 5px;
@@ -185,14 +185,14 @@ div.destination {
   padding: 12px 0 0 15px;
   margin: 0;
   float: right;
-  text-align: right;
+  text-align: center;
 }
 
 div.frequency {
   padding: 11px 8px 0 0;
   margin: 0;
   float: right;
-  text-align: right;
+  text-align: center;
 }
 
 div.frequencyNA {
@@ -220,18 +220,18 @@ div.arrow-right {
 
 /*Destination*/
 h1 {
-  font-size: 3.0em;
+  font-size: 2.0em;
   margin: 0px;
   padding: 5px;
-  text-align: center;
+  text-align: right;
   font-weight: 550;
 }
 
 /*frequency*/
 h2 {
-background-color: #003470;
+background-color: #4A4A4A;
 color: #4A4A4A;
-font-size: 1.2em;
+font-size: 1.1em;
 font-weight: 550;
 margin: 0px;
 padding: 5px;
@@ -240,7 +240,7 @@ padding: 5px;
 /*line*/
 h3 {
 background-color: #FFFFFF;
-color: #003470;
+color: #ffffff;
 font-size: 1.1em;
 font-weight: 400;
 margin: auto;
@@ -250,7 +250,7 @@ padding:5px;
 /*destination*/
 h4 {
 background-color: #FFFFFF;
-color: #003470;
+color: #ffffff;
 font-size: 1.0em;
 font-weight: 400;
 margin: 0px;
