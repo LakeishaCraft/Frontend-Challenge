@@ -6,7 +6,7 @@
 body {
     background-color: #000000;
     font-family: sans-serif;
-    font-size: 16px;
+    font-size: 15px;
     color: #FFFFFF;
     width: auto;
 }
@@ -70,7 +70,7 @@ div#main:hover {
 .busroute1 {
   background-color: white;
   border-bottom: 1px solid #E0E0E0;
-  color: #003470;
+  color: #000000;
   font-size: .75em;
   font-weight: 400;
   padding: 5px;
@@ -169,7 +169,7 @@ div#main:hover {
 
 /*Busroute details*/
 div.busstop {
-  padding: 20px 0 0 10px;
+  padding: 15px 0 0 10px;
   margin: 0;
   float: left;
 }
@@ -184,29 +184,29 @@ div.line {
 div.destination {
   padding: 12px 0 0 15px;
   margin: 0;
-  float: left;
-  text-align: left;
+  float: right;
+  text-align: right;
 }
 
-div.arrivaltime {
+div.frequency {
   padding: 11px 8px 0 0;
   margin: 0;
   float: right;
-  text-align: center;
+  text-align: right;
 }
 
-div.arrivaltimeNA {
+div.frequencyNA {
   padding: 17px 8px 0 0;
   margin: 0;
   float: right;
-  text-align: center;
+  text-align: right;
 }
 
-div.arrivalresumes {
+div.frequencyresumes {
   padding: 10px 5px 0 0;
   margin: 0;
   float: right;
-  text-align: center;
+  text-align: right;
 }
 
 div.arrow-right {
@@ -220,10 +220,10 @@ div.arrow-right {
 
 /*Washington and State*/
 h1 {
-  font-size: 1.8em;
+  font-size: 2.0em;
   margin: 0px;
   padding: 5px;
-  text-align: right;
+  text-align: center;
   font-weight: 550;
 }
 
@@ -240,8 +240,8 @@ padding: 5px;
 /*line*/
 h3 {
 background-color: #FFFFFF;
-color: #4A4A4A;
-font-size: 1.2em;
+color: #003470;
+font-size: 1.1em;
 font-weight: 400;
 margin: auto;
 padding:5px;
@@ -251,7 +251,7 @@ padding:5px;
 h4 {
 background-color: #FFFFFF;
 color: #003470;
-font-size: 1.1em;
+font-size: 1.0em;
 font-weight: 400;
 margin: 0px;
 padding: 5px;
