@@ -44,8 +44,8 @@ div.arrow-left {
 }
 
 .board {
-    background-color: #003470;
-    color: #FFFFFF;
+    background-color: #E0E0E0;
+    color: #003470;
     margin-bottom: 10px;
     padding: 5px;
     height: 30px;
@@ -53,7 +53,7 @@ div.arrow-left {
 
 /*BusList*/
 div#main {
-  background-color: #E0E0E0;
+  background-color: #white;
   font-family: sans-serif;
   font-size: 1em;
   margin: 0 auto 0 auto;
