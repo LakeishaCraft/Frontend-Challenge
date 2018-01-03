@@ -4,126 +4,29 @@
 }
 
 body {
-    background-color: #E0E0E0;
-    font-family: sans-serif;
-    font-size: 15px;
+  background-color: #E0E0E0;
+  font-family: sans-serif;
+  font-size: 10px;
 
 }
 
 .container {
-    margin: 0 auto;
-    width: 375px;
+  margin: 0 auto;
+  width: 420px;
     
 }
 
 nav {
-    margin: 0 auto; 
-    padding: 10px 0 15px 15px;
-    background-color: #003470;
-    position: fixed;
-    width: 375px;
+  margin: 0 auto; 
+  padding: 10px 0 15px 15px;
+  background-color: #003470;
+  position: fixed;
+  width: 420px;
+}
+
+.bus-route {
+  padding-top: 50px;
 }
 
 
-div.arrow-left {
-    color: #FFFFFF;
-    margin: 0px;
-    padding-top: 5px;
-    padding-left: 10px;
-    height: 0px;
-    width: 0px;
-}
-
-.board {
-    background-color: #E0E0E0;
-    color: #003470;
-    margin-bottom: 10px;
-    padding: 5px;
-    height: 30px;
-    width: 375px;
-
-/*BusList*/
-div#main {
-  background-color: #E0E0E0;
-  font-family: sans-serif;
-  font-size: 1em;
-  margin: 0 auto 0 auto;
-  width: 375px;
-  height: 375px;
-  overflow: scroll;
-}
-
-.busroute {
-  padding: 30px;
-}
-
-/*Busroute details*/
-div.busstop {
-  padding: 15px 0 0 10px;
-  margin: 0;
-  float: left;
-}
-
-div.arrow-right {
-    color: #C7C7C7;
-    margin: 0px;
-    padding: 14px 20px 0 0;
-    height: 0px;
-    width: 0px;
-    float: right;
-}
-
-/*Destination*/
-h1 {
-    font-size: 1.8em;
-    margin: 0px;
-}
-
-/*frequency*/
-h2 {
-    background-color: #FFFFFF;
-    color: #4A4A4A;
-    font-size: 1.0em;
-    font-weight: 550;
-    margin: 0px;
-    padding: 5px;
-}
-
-/*line*/
-h3 {
-    background-color: #FFFFFF;
-    color: #4A4A4A;
-    font-size: 1.1em;
-    font-weight: 400;
-    margin: auto;
-    padding:5px;
-}
-
-/*destination*/
-h4 {
-    background-color: #FFFFFF;
-    color: #003470;
-    font-size: 1.0em;
-    font-weight: 400;
-    margin: 0px;
-    padding: 5px;
-}
-
-/*board*/
-h5 {
-    background-color: #003470;
-    color: #FFFFFF;
-    font-size: .90em;
-    font-weight: 550;
-    margin: 0px;
-    padding-bottom: 5px;
-}
-
-
-h4 {
-  letter-spacing: .09em;
-}
-
-h4 {
-  line-height: 1.2em;
-}
+    
