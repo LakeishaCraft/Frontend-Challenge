@@ -24,11 +24,10 @@ nav {
   background-image: url(images/statusbar.png);
   background-position: top;
   background-color: #003470;
-  width: 420px;
 }
 
 .bus-route {
-  padding-top: 30px;
+  padding-top: 50px;
 }
 
     
