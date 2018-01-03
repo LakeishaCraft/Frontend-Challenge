@@ -196,14 +196,14 @@ div.frequency {
 }
 
 div.frequencyNA {
-  padding: 17px 8px 0 0;
+  padding: 11px 8px 0 0;
   margin: 0;
   float: right;
   text-align: right;
 }
 
 div.frequencyresumes {
-  padding: 10px 5px 0 0;
+  padding: 11px 5px 0 0;
   margin: 0;
   float: right;
   text-align: right;
@@ -218,18 +218,18 @@ div.arrow-right {
     float: right;
 }
 
-/*Washington and State*/
+/*Destination*/
 h1 {
-  font-size: 2.0em;
+  font-size: 3.0em;
   margin: 0px;
   padding: 5px;
   text-align: center;
   font-weight: 550;
 }
 
-/*arrivaltime - BusMin*/
+/*frequency*/
 h2 {
-background-color: #FFFFFF;
+background-color: #003470;
 color: #4A4A4A;
 font-size: 1.2em;
 font-weight: 550;
