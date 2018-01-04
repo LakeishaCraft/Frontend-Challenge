@@ -88,11 +88,11 @@ float: center;
 /*line*/
 h3 {
 background-color: #FFFFFF;
-color: #gray;
+color: gray;
 font-size: 1.3em;
 font-weight: 500;
 margin: auto;
-padding: 20px;
+padding: 15px;
 float: left;
 text-align: center;  
 display: inline;  
@@ -112,7 +112,7 @@ display: inline;
 /*frequency*/
 h6 {
 background-color: #FFFFFF;
-color: #;
+color: gray;
 font-size: 1.3em;
 font-weight: 500;
 margin: 0px;
