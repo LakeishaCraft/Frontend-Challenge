@@ -62,6 +62,32 @@ div.busstop {
   float: left;
 }
   
+.route-list{
+  background-color: white;
+  max-height: 50px;
+}
+.left-side{
+  margin-left: 10px;
+  display: inline-block;
+  height: 50px;
+  width: 80%;
+  line-height: 50px;
+}
+.right-side{
+  display: inline-block;
+  height: 50px;
+  line-height: 50px;
+  font-size: .7em;
+  color: grey;
+}
+.small-gray{
+  font-size: .5em;
+  color: grey;
+}
+body{
+  background-color: grey;
+}
+
 /*Washington and State*/
 h1 {
   background-color: #003470;  
