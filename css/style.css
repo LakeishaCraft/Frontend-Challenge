@@ -20,7 +20,8 @@ body {
     color: #003470;
     margin: auto;
     height: 20px;
-    width: 375px;
+    width: 420px;
+}
 
 .nav {
   margin: 0 auto; 
@@ -41,6 +42,7 @@ div.arrow-left {
 div.arrow {
     color: #003470;
     margin: 0px;
+}  
     
 
 /*Busroute details*/
@@ -110,8 +112,8 @@ font-size: 1.3em;
 font-weight: 550;
 margin: 0px;
 padding-bottom: 5px;  
-text-align: right  
-float: right
+text-align: right;  
+float: right;
 }  
   
   
