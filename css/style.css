@@ -87,7 +87,7 @@ float: center;
 
 /*line*/
 h3 {
-background-color: #FFFFFF;
+background-color: white;
 color: gray;
 font-size: 1.3em;
 font-weight: 500;
@@ -111,9 +111,9 @@ display: inline;
 
 /*frequency*/
 h6 {
-background-color: #FFFFFF;
+background-color: white;
 color: gray;
-font-size: 1.3em;
+font-size: 1.2em;
 font-weight: 500;
 margin: 0px;
 padding-bottom: 5px;  
