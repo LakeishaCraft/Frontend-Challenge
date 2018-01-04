@@ -7,7 +7,6 @@ body {
   font-family: sans-serif;
   font-size: 15px;
   width: auto;
-  color: #003470;
 }
 
 .container {
@@ -19,7 +18,6 @@ nav {
   margin: 0 auto; 
   padding: 5px;
   background-color: #003470;
-  height: 50px;
   position: fixed;
   width: 420px;
 }
@@ -35,24 +33,24 @@ div.arrow-right {
 
 /*Washington and State*/
 h1 {
-  font-size: 1.4em;
+  font-size: 1.6em;
   margin: 0px;
   padding: 5px;
   text-align: center;
   font-weight: 550;
 }
 
-/*arrivaltime - BusMin*/
+/*destination*/
 h2 {
 background-color: #FFFFFF;
-color: #4A4A4A;
-font-size: 1.2em;
+color: #003470;
+font-size: 1.4em;
 font-weight: 550;
 margin: 0px;
 padding: 5px;
 }
 
-/*line*/
+/*line and frequency*/
 h3 {
 background-color: #FFFFFF;
 color: #4A4A4A;
@@ -62,7 +60,7 @@ margin: auto;
 padding:5px;
 }
 
-/*destination*/
+/*route*/
 h4 {
 background-color: #FFFFFF;
 color: #003470;
