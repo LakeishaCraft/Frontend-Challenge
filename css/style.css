@@ -108,14 +108,12 @@ h6 {
 background-color: #FFFFFF;
 color: #;
 font-size: 1.3em;
-font-weight: 550;
+font-weight: 500;
 margin: 0px;
 padding-bottom: 5px;  
 text-align: right;  
-float: right;
-}  
-  
-  <div class="board"><h5>Board @ Washington and State</h5></div>
+}    
+ 
 h4 {
   letter-spacing: .09em;
 }
