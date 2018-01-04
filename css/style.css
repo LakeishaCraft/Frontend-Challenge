@@ -52,11 +52,11 @@ h1 {
 h2 {
 background-color: #FFFFFF;
 color: #003470;
-font-size: 1.4em;
-font-weight: 550;
+font-size: 1.2em;
+font-weight: 500;
 margin: 0px;
 padding: 5px;
-float: center;  
+float: right;  
 }
 
 /*line and frequency*/
