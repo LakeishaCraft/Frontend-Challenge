@@ -65,12 +65,14 @@ div.busstop {
   
 /*Washington and State*/
 h1 {
+  background-color: #003470;
+  color: #ffffff
   font-size: 1.6em;
   margin: 0px;
   padding: 12px;
   text-align: center;
   font-weight: 500;
-  color: #ffffff
+
 }
 
 /*destination*/
