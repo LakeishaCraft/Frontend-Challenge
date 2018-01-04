@@ -6,7 +6,7 @@ body {
   background-color: #E0E0E0;
   font-family: sans-serif;
   font-size: 14px;
-  line-height: 1.0;
+  line-height: 1.6;
   width: auto;
 }
 
@@ -15,7 +15,14 @@ body {
   width: 420px;    
 }
 
-nav {
+.board {
+    background-color: #E0E0E0;
+    color: #003470;
+    margin: auto;
+    height: 20px;
+    width: 375px;
+
+.nav {
   margin: 0 auto; 
   padding-top: 30px;
   background-color: #003470;
@@ -31,6 +38,11 @@ div.arrow-left {
     float: left;
 }
 
+div.arrow {
+    color: #003470;
+    margin: 0px;
+    
+
 /*Busroute details*/
 div.busstop {
   padding: 20px 0 0 10px;
@@ -42,7 +54,7 @@ div.busstop {
 h1 {
   font-size: 1.6em;
   margin: 0px;
-  padding: 5px;
+  padding: 12px;
   text-align: center;
   font-weight: 500;
   color: #ffffff
@@ -67,6 +79,8 @@ font-size: 1.2em;
 font-weight: 500;
 margin: auto;
 padding:5px;
+float: left;
+text-align: left;  
 }
 
 /*route*/
@@ -83,8 +97,8 @@ padding: 5px;
 h5 {
 background-color: #003470;
 color: #FFFFFF;
-font-size: .90em;
-font-weight: 550;
+font-size: 1.0em;
+font-weight: 500;
 margin: 0px;
 padding-bottom: 5px;
 }
@@ -94,5 +108,5 @@ h4 {
 }
 
 h4 {
-  line-height: 1.2em;
+  line-height: initial;
 }
