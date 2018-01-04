@@ -19,19 +19,8 @@ nav {
   margin: 0 auto; 
   padding: 5px;
   background-color: #003470;
-  height: 75px;
+  height: 50px;
   position: fixed;
   width: 420px;
 }
-
-.statusbar {
-  background-image: url(images/statusbar.png);
-  background-position: top;
-  background-color: #003470;
-}
-
-.bus-route {
-  padding-top: 50px;
-}
-
     
