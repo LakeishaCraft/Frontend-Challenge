@@ -24,15 +24,15 @@ body {
 }
 
 .board {
-    background-color: #E0E0E0;
-    color: #003470;
+    background-color: #003470;
+    color: #FFFFFF;
     margin: auto;
     height: 20px;
     width: 420px;
 }
 
 .nav {
-  margin: auto; 
+  margin: 0; 
   padding-top: 30px;
   background-color: #003470;
   width: 420px;
