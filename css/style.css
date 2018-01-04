@@ -24,3 +24,69 @@ nav {
   width: 420px;
 }
     
+div.arrow-right {
+    color: #C7C7C7;
+    margin: 0px;
+    padding: 14px 20px 0 0;
+    height: 0px;
+    width: 0px;
+    float: right;
+}
+
+/*Washington and State*/
+h1 {
+  font-size: 1.4em;
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+  font-weight: 550;
+}
+
+/*arrivaltime - BusMin*/
+h2 {
+background-color: #FFFFFF;
+color: #4A4A4A;
+font-size: 1.2em;
+font-weight: 550;
+margin: 0px;
+padding: 5px;
+}
+
+/*line*/
+h3 {
+background-color: #FFFFFF;
+color: #4A4A4A;
+font-size: 1.1em;
+font-weight: 400;
+margin: auto;
+padding:5px;
+}
+
+/*destination*/
+h4 {
+background-color: #FFFFFF;
+color: #003470;
+font-size: 1.0em;
+font-weight: 400;
+margin: 0px;
+padding: 5px;
+}
+
+/*statusbar*/
+h5 {
+background-color: #003470;
+color: #FFFFFF;
+font-size: .90em;
+font-weight: 550;
+margin: 0px;
+padding-bottom: 5px;
+}
+
+
+h4 {
+  letter-spacing: .09em;
+}
+
+h4 {
+  line-height: 1.2em;
+}
