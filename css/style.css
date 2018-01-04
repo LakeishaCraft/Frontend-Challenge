@@ -17,7 +17,7 @@ body {
 
 /*statusbar*/
 .statusbar {
-  background: url('images/statusbar.png');
+  background-image: url('images/statusbar.png');
   background-position: top;
   background-color: #003470;
   display: block;  
