@@ -17,7 +17,7 @@ body {
 
 nav {
   margin: 0 auto; 
-  padding-top: 10px;
+  padding-top: 30px;
   background-color: #003470;
   width: 420px;
 }
@@ -37,7 +37,7 @@ h1 {
   margin: 0px;
   padding: 5px;
   text-align: center;
-  font-weight: 550;
+  font-weight: 500;
   color: #ffffff
 }
 
