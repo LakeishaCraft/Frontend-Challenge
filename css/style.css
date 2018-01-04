@@ -33,11 +33,12 @@ div.arrow-left {
 
 /*Washington and State*/
 h1 {
-  font-size: 1.2em;
+  font-size: 1.6em;
   margin: 0px;
   padding: 5px;
   text-align: center;
   font-weight: 550;
+  color: #ffffff
 }
 
 /*destination*/
