@@ -12,7 +12,9 @@ body {
 
 .container {
   margin: 0 auto;
-  width: 420px;    
+  width: 420px;
+  height: 667px;
+  background-color: #E0E0E0;
 }
 
 /*statusbar*/
@@ -25,9 +27,9 @@ body {
 
 .board {
     background-color: #003470;
-    color: #C7C7C7;
+    color: #FFFFFF;
     margin: auto;
-    height: 20px;
+    height: 30px;
     width: 420px;
 }
 
@@ -35,13 +37,14 @@ body {
   margin: 0; 
   padding-top: 30px;
   background-color: #003470;
+  color: #003470;
   width: 420px;
 }
     
 div.arrow-left {
     color: #C7C7C7;
     margin: 0px;
-    padding: 5px;
+    padding: 15px;
     height: 0px;
     width: 0px;
     float: left;
