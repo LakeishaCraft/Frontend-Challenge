@@ -23,7 +23,11 @@ body {
   background-position: top;
   padding: 15px;
   display: block;  
-  background-color: #004798;
+  background-color: #004798;  
+}
+
+div.StatusBar {
+<img src="/images/StatusBar.png" alt="status info" style="width:375px;height:20px;">
 }
 
 .nav {
