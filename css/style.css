@@ -28,7 +28,7 @@ body {
     background-color: #003470;
     color: #FFFFFF;
     margin: auto;
-    height: 30px;
+    height: 50px;
     width: 420px;
 }
 
@@ -43,7 +43,7 @@ body {
 div.arrow-left {
     color: #C7C7C7;
     margin: 0px;
-    padding-top: 5px;
+    padding-top: 15px;
     padding-left: 10px;
     height: 0px;
     width: 0px;
@@ -81,8 +81,7 @@ color: #003470;
 font-size: 1.2em;
 font-weight: 500;
 margin: 0px;
-padding: 5px;
-float: center;   
+padding: 5px;   
 }
 
 /*line*/
