@@ -54,8 +54,9 @@ div.arrow-left {
 /*Busroute details*/
 div.busstop {
   padding: 20px 0 0 10px;
-  float: left;
   color: #003470
+  float: left;
+  display: inline;  
 }
   
 div.arrow {
