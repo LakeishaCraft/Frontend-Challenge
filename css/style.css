@@ -37,7 +37,6 @@ body {
 div.arrow-left {
     color: #C7C7C7;
     margin: 0px;
-    padding-top: 15px;
     padding-left: 10px;
     height: 0px;
     width: 0px;
@@ -62,6 +61,7 @@ div.busstop {
 div.arrow {
 color: #003470;
 margin: 0px;
+padding: 20px 25px 0 0;  
 float: right;
 }     
 
@@ -76,7 +76,7 @@ div#main {
   overflow-x: hidden;
 }
 
-.routeinfo {
+.routelist {
   background-color: white;
   border-bottom: 1px solid #E0E0E0;
   font-size: .75em;
@@ -99,6 +99,34 @@ div.linenumber {
   float: left;
 }
 
+div.destinationEB1 {
+  padding: 20px 0 0 32px;
+  margin: 0;
+  float: left;
+  text-align: left;
+}
+
+div.frequency {
+  padding: 15px 45px 0 0;
+  margin: 0;
+  float: right;
+  text-align: left;
+}
+
+div.frequencyNA {
+  padding: 22px 60px 0 0;
+  margin: 0;
+  float: right;
+  text-align: left;
+}
+
+div.frequencyresumes {
+  padding: 15px 20px 0 0;
+  margin: 0;
+  float: right;
+  text-align: left;
+}
+
 /*Washington and State*/
 h1 {
   background-color: #003470;  
@@ -110,7 +138,7 @@ h1 {
   color: #FFFFFF;
 }
 
-/*destination*/
+/*frequency*/
 h2 {
 background-color: #FFFFFF;
 color: #003470;
@@ -132,7 +160,7 @@ padding: 0;
 display: inline;  
 }
 
-/*route*/
+/*destination*/
 h4 {
 background-color: #FFFFFF;
 color: #003470;
@@ -142,7 +170,7 @@ margin: auto;
 display: inline;  
 }
 
-/*frequency*/
+/*statusbar*/
 h5 {
 background-color: #003470;
 color: #FFFFFF;
@@ -152,11 +180,38 @@ margin: 0px;
 padding-bottom: 0px;  
 display: inline;  
 }    
- 
-h4 {
+
+ /*spacing between letters*/
+h2 {
+  letter-spacing: .07em;
+}
+
+h3 {
   letter-spacing: .09em;
 }
 
 h4 {
-  line-height: initial;
+  letter-spacing: .09em;
 }
+
+h5 {
+  letter-spacing: .08em;
+}
+
+/*spacing between words/sentences */
+h2 {
+  line-height: 1.2em;
+}
+
+h3 {
+  line-height: .4em;
+}
+
+h4 {
+  line-height: .4em;
+}
+
+.standout {
+  color: red;
+}
+
