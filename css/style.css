@@ -6,29 +6,23 @@ body {
   background-color: #E0E0E0;
   font-family: sans-serif;
   font-size: 16px;
+  color: black;
   width: auto;
 }
 
 .container {
   margin: 0 auto;
-  width: 420px;
+  width: 375px;
+  height: 667px;
   background-color: #E0E0E0;
 }
 
 /*statusbar*/
 .statusbar {
-  background-image: url(images/statusbar.png);
+  background-image: url(Images/statusbar.png);
   background-position: top;
   background-color: #003470;
-  display: inline;  
-}
-
-.board {
-    background-color: #003470;
-    color: #FFFFFF;
-    margin: auto;
-    height: 50px;
-    width: 420px;
+  display: block;  
 }
 
 .nav {
@@ -36,9 +30,10 @@ body {
   background-color: #003470;
   color: #003470;
   height: 50px;
-  width: 420px;
+  width: 375px;
+  
 }
-    
+
 div.arrow-left {
     color: #C7C7C7;
     margin: 0px;
@@ -46,14 +41,16 @@ div.arrow-left {
     padding-left: 10px;
     height: 0px;
     width: 0px;
-    float: left;
 }
-
-div.arrow {
-    color: #003470;
-    margin: 0px;
-    float: right;
-}     
+ 
+.board {
+    background-color: #003470;
+    color: #FFFFFF;
+    margin: 0 0 10px 5px;
+    padding: 8px;
+    height: 20px;
+    width: 375px;
+}
 
 /*Busroute details*/
 div.busstop {
@@ -62,6 +59,46 @@ div.busstop {
   float: left;
 }
   
+div.arrow {
+color: #003470;
+margin: 0px;
+float: right;
+}     
+
+div#main {
+  background-color: #E0E0E0;
+  font-family: sans-serif;
+  font-size: 1em;
+  margin: 0 auto 0 auto;
+  width: 375px;
+  height: 380px;
+  overflow: scroll;
+  overflow-x: hidden;
+}
+
+.routeinfo {
+  background-color: white;
+  border-bottom: 1px solid #E0E0E0;
+  font-size: .75em;
+  font-weight: 400;
+  padding: 5px;
+  height: 75px;
+  width: 375px;
+}
+
+div.bustop {
+  padding: 20px 0 0 10px;
+  margin: 0;
+  float: left;
+  color: #003470;
+}
+
+div.linenumber {
+  padding: 28px 0 0 10px;
+  margin: 0;
+  float: left;
+}
+
 /*Washington and State*/
 h1 {
   background-color: #003470;  
