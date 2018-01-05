@@ -21,9 +21,9 @@ body {
 .statusbar {
   background-image: url(Images/statusbar.png);
   background-position: top;
-  padding: 20px;
+  padding: 15px;
   display: block;  
-  background-color: #003470;
+  background-color: #004798;
 }
 
 .nav {
@@ -98,7 +98,7 @@ div.linenumber {
 }
 
 div.destinationEB1 {
-  padding: 20px 0 0 32px;
+  padding: 25px 20px 0 30px;
   margin: 0;
   padding-top: 25px;
   float: left;
@@ -128,10 +128,10 @@ div.frequencyresumes {
 
 /*Washington and State*/
 h1 {
-  background-color: #003470;  
+  background-color: #004798;  
   font-size: 1.3em;
   margin: 0px;
-  padding: 5px;
+  padding: 10px;
   text-align: center;
   font-weight: 550;
   color: #FFFFFF;
