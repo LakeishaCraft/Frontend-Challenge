@@ -21,8 +21,9 @@ body {
 .statusbar {
   background-image: url(Images/statusbar.png);
   background-position: top;
-  padding: 1px;
+  padding: 20px;
   display: block;  
+  background-color: #003470;
 }
 
 .nav {
@@ -30,8 +31,7 @@ body {
   background-color: #003470;
   color: #003470;
   height: 80px;
-  width: 375px;
-  
+  width: 375px;  
 }
 
 div.arrow-left {
@@ -109,6 +109,7 @@ div.frequency {
   padding: 15px 45px 0 0;
   margin: 0;
   text-align: left;
+  display: inline;
 }
 
 div.frequencyNA {
@@ -140,8 +141,8 @@ h1 {
 h2 {
   background-color: #FFFFFF;
   color: #4A4A4A;
-  font-size: 1.0em;
-  font-weight: 550;
+  font-size: 1.3em;
+  font-weight: 500;
   margin: auto;
   padding: 0px;
   
