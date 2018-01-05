@@ -19,7 +19,7 @@ body {
 
 /*statusbar*/
 .statusbar {
-  background-image: url(Images/statusbar.png);
+  background-image: url(/images/statusbar.png);
   background-position: top;
   padding: 15px;
   display: block;  
