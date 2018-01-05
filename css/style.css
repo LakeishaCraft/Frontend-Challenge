@@ -34,9 +34,8 @@ body {
   width: 375px;  
 }
 
-div.StatusBar {
-<img src="/images/StatusBar.png" alt="status info" style="width:375px;height:20px;">
-}
+
+body { background-image: url(../images/StatusBar.png); }
 
 
 div.arrow-left {
