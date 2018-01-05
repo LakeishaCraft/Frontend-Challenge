@@ -26,10 +26,6 @@ body {
   background-color: #004798;  
 }
 
-div.StatusBar {
-<img src="/images/StatusBar.png" alt="status info" style="width:375px;height:20px;">
-}
-
 .nav {
   padding: 5px;
   background-color: #003470;
@@ -37,6 +33,11 @@ div.StatusBar {
   height: 80px;
   width: 375px;  
 }
+
+div.StatusBar {
+<img src="/images/StatusBar.png" alt="status info" style="width:375px;height:20px;">
+}
+
 
 div.arrow-left {
   color: #FFFFFF;
@@ -145,11 +146,10 @@ h1 {
 h2 {
   background-color: #FFFFFF;
   color: #4A4A4A;
-  font-size: 1.4em;
-  font-weight: 500;
+  font-size: 1.2em;
+  font-weight: 550;
   margin: auto;
-  padding: 0px;
-  
+  padding: 0px;  
 }
 
 /*line*/
@@ -157,7 +157,7 @@ h3 {
   background-color: #FFFFFF;
   color: 4A4A4A;
   font-size: 1.3em;
-  font-weight: 500;
+  font-weight: 550;
   margin: 0;
   padding: 0; 
   display: inline;
@@ -201,7 +201,7 @@ h2 {
 }
 
 h3 {
-  line-height: .2em;
+  line-height: .4em;
 }
 
 h4 {
