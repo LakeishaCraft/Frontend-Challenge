@@ -132,32 +132,31 @@ h1 {
   background-color: #003470;  
   font-size: 1.3em;
   margin: 0px;
-  padding: 20px;
+  padding: 5px;
   text-align: center;
-  font-weight: 500;
+  font-weight: 550;
   color: #FFFFFF;
 }
 
 /*frequency*/
 h2 {
 background-color: #FFFFFF;
-color: #003470;
-font-size: 1.0em;
-font-weight: 500;
-margin: 0px;
+color: #4A4A4A;
+font-size: 1.1em;
+font-weight: 550;
+margin: auto;
 padding: 0px;
   
 }
 
 /*line*/
 h3 {
-background-color: white;
-color: gray;
-font-size: 1.0em;
-font-weight: 500;
+background-color: #FFFFFF;
+color: 4A4A4A;
+font-size: 1.1em;
+font-weight: 550;
 margin: 0;
-padding: 0;
-display: inline;  
+padding: 0;  
 }
 
 /*destination*/
@@ -166,20 +165,18 @@ background-color: #FFFFFF;
 color: #003470;
 font-size: 1.1em;
 font-weight: 5000;
-margin: auto;
-display: inline;  
+margin: auto; 
 }
 
 /*statusbar*/
 h5 {
 background-color: #003470;
 color: #FFFFFF;
-font-size: 1.0em;
-font-weight: 450;
-margin: 0px;
-padding-bottom: 0px;  
-display: inline;  
-}    
+font-size: .90em;
+font-weight: 550;
+margin: auto;
+padding-bottom: 5px;  
+}  
 
  /*spacing between letters*/
 h2 {
