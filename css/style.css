@@ -29,7 +29,7 @@ body {
   padding: 5px;
   background-color: #003470;
   color: #003470;
-  height: 50px;
+  height: 80px;
   width: 375px;
   
 }
@@ -153,8 +153,8 @@ h2 {
 h3 {
   background-color: #FFFFFF;
   color: 4A4A4A;
-  font-size: 1.1em;
-  font-weight: 550;
+  font-size: 1.3em;
+  font-weight: 500;
   margin: 0;
   padding: 0;  
 }
