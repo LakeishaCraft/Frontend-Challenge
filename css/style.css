@@ -35,34 +35,35 @@ body {
 }
 
 div.arrow-left {
-    color: #C7C7C7;
-    margin: 0px;
-    padding-left: 10px;
-    height: 0px;
-    width: 0px;
+  color: #C7C7C7;
+  margin: 0px;
+  padding-left: 10px;
+  height: 0px;
+  width: 0px;
 }
  
 .board {
-    background-color: #003470;
-    color: #FFFFFF;
-    margin: 0 0 10px 5px;
-    padding: 8px;
-    height: 20px;
-    width: 375px;
+  background-color: #003470;
+  color: #FFFFFF;
+  margin: 0 0 10px 5px;
+  padding: 8px;
+  height: 20px;
+  width: 375px;
 }
 
 /*Busroute details*/
 div.busstop {
+  color: #003470
   padding: 20px 0 0 10px;
   margin: 0;
   float: left;
 }
   
 div.arrow {
-color: #003470;
-margin: 0px;
-padding: 20px 25px 0 0;  
-float: right;
+  color: #003470;
+  margin: 0px;
+  padding: 20px 25px 0 0;  
+  float: right;
 }     
 
 div#main {
@@ -140,42 +141,42 @@ h1 {
 
 /*frequency*/
 h2 {
-background-color: #FFFFFF;
-color: #4A4A4A;
-font-size: 1.1em;
-font-weight: 550;
-margin: auto;
-padding: 0px;
+  background-color: #FFFFFF;
+  color: #4A4A4A;
+  font-size: 1.1em;
+  font-weight: 550;
+  margin: auto;
+  padding: 0px;
   
 }
 
 /*line*/
 h3 {
-background-color: #FFFFFF;
-color: 4A4A4A;
-font-size: 1.1em;
-font-weight: 550;
-margin: 0;
-padding: 0;  
+  background-color: #FFFFFF;
+  color: 4A4A4A;
+  font-size: 1.1em;
+  font-weight: 550;
+  margin: 0;
+  padding: 0;  
 }
 
 /*destination*/
 h4 {
-background-color: #FFFFFF;
-color: #003470;
-font-size: 1.1em;
-font-weight: 5000;
-margin: auto; 
+  background-color: #FFFFFF;
+  color: #003470;
+  font-size: 1.1em;
+  font-weight: 5000;
+  margin: auto; 
 }
 
 /*statusbar*/
 h5 {
-background-color: #003470;
-color: #FFFFFF;
-font-size: .90em;
-font-weight: 550;
-margin: auto;
-padding-bottom: 5px;  
+  background-color: #003470;
+  color: #FFFFFF;
+  font-size: .90em;
+  font-weight: 550;
+  margin: auto;
+  padding-bottom: 5px;  
 }  
 
  /*spacing between letters*/
@@ -208,7 +209,4 @@ h4 {
   line-height: .4em;
 }
 
-.standout {
-  color: red;
-}
 
