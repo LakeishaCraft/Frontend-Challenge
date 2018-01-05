@@ -156,7 +156,8 @@ h3 {
   font-size: 1.3em;
   font-weight: 500;
   margin: 0;
-  padding: 0;  
+  padding: 0; 
+  display: inline;
 }
 
 /*destination*/
@@ -164,7 +165,7 @@ h4 {
   background-color: #FFFFFF;
   color: #003470;
   font-size: 1.1em;
-  font-weight: 5000;
+  font-weight: 500;
   margin: auto; 
 }
 
