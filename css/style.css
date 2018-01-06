@@ -19,12 +19,14 @@ body {
 
 /*statusbar*/
 .StatusBar {
-  background-image: url(/images/StatusBar.png);
   background-position: top;
   padding: 15px;
   display: block;  
   background-color: #004798;  
 }
+
+<div style="/images/StatusBar.png no-repeat;height:20 px;width:375 px">
+</div>
 
 .nav {
   padding: 5px;
