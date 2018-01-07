@@ -36,10 +36,6 @@ body {
   width: 375px;  
 }
 
-
-body { background-image: url(../images/StatusBar.png); }
-
-
 div.arrow-left {
   color: #FFFFFF;
   margin: 0px;
