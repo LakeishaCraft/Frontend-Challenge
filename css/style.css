@@ -18,11 +18,10 @@ body {
 }
 
 /*statusbar*/
-.StatusBar {
+.statusbar {
+  background-image: url(Images/statusbar.png);
   background-position: top;
-  padding: 15px;
-  display: block;  
-  background-color: #004798;  
+  display: block;
 }
 
 .nav {
@@ -165,16 +164,6 @@ h4 {
   font-weight: 500;
   margin: auto; 
 }
-
-/*statusbar*/
-h5 {
-  background-color: #003470;
-  color: #FFFFFF;
-  font-size: .90em;
-  font-weight: 550;
-  margin: auto;
-  padding-bottom: 5px;  
-}  
 
  /*spacing between letters*/
 h2 {
