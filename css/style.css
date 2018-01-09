@@ -19,7 +19,7 @@ body {
 
 /*statusbar*/
 .statusbar {
-  background-image: url(css/images/StatusBar.png);
+  background-image: url(Images/StatusBar.png);
   background-position: top;
   display: block;
 }
@@ -103,7 +103,53 @@ div.destinationEB1 {
   text-align: left;
 }
 
+div.destinationEB2 {
+  padding: 25px 20px 0 30px;
+  margin: 0;
+  padding-top: 25px;
+  float: left;
+  text-align: left;
+}
+
+div.destinationNB1 {
+  padding: 25px 20px 0 30px;
+  margin: 0;
+  padding-top: 25px;
+  float: left;
+  text-align: left;
+}
+
+div.destinationSB1 {
+  padding: 25px 20px 0 30px;
+  margin: 0;
+  padding-top: 25px;
+  float: left;
+  text-align: left;
+}
+
+div.destinationSB2 {
+  padding: 25px 20px 0 30px;
+  margin: 0;
+  padding-top: 25px;
+  float: left;
+  text-align: left;
+}
+
 div.frequency {
+  padding: 15px 45px 0 0;
+  margin: 0;
+  text-align: center;
+  display: inline;
+}
+
+div.frequencyNA {
+  padding: 15px 45px 0 0;
+  margin: 0;
+  text-align: center;
+  display: inline;
+}
+
+div.frequencyresumes {
   padding: 15px 45px 0 0;
   margin: 0;
   text-align: center;
