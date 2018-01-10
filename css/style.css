@@ -160,7 +160,7 @@ div.destinationSB5 {
 }
 
 div.destinationSB6 {
-  padding: 25px 20px 0 30px;
+  padding: 25px 0px 10px 30px;
   margin: 0;
   padding-top: 25px;
   float: left;
@@ -168,7 +168,7 @@ div.destinationSB6 {
 }
 
 div.frequency {
-  padding: 15px 15px 0 0;
+  padding: 25px 15px 0 0;
   margin: 0;
   float: right;
   text-align: right;
@@ -183,7 +183,7 @@ div.frequencyNA {
 }
 
 div.frequencyresumes {
-  padding: 0px 15px;
+  padding: 15px 10px 5px 10px;
   margin: 0;
   float: right;
   text-align: left;
@@ -245,7 +245,7 @@ h4 {
 
 /*spacing between words/sentences */
 h2 {
-  line-height: 2.8em;
+  line-height: 1.2em;
 }
 
 h3 {
