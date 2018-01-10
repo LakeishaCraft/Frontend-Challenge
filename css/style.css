@@ -48,11 +48,13 @@ div.arrow-left {
 }
 
 /*tabbar*/
-.tabbar {
+.fxed {
   background-image: url(images/TabBar.png);
   background-color: #003470;
   background-position: bottom;
   display: block;
+  position: fixed;
+  width: 375px;
 }
 
 /*Busroute details*/
