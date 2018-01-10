@@ -136,7 +136,7 @@ div.destinationSB2 {
 }
 
 div.destinationSB3 {
-  padding: 25px 20px 0 30px;
+  padding: 30px 20px 0 40px;
   margin: 0;
   padding-top: 25px;
   float: left;
@@ -144,7 +144,7 @@ div.destinationSB3 {
 }
 
 div.destinationSB4 {
-  padding: 25px 20px 0 30px;
+  padding: 15px 10px 0 50px;
   margin: 0;
   padding-top: 25px;
   float: left;
@@ -152,14 +152,14 @@ div.destinationSB4 {
 }
 
 div.destinationSB5 {
-  padding: 25px 20px 0 30px;
+  padding: 15px 10px 0 40px;
   margin: 0;
   padding-top: 25px;
   float: left;
   text-align: left;
 }
 
-div.destinationSB5 {
+div.destinationSB6 {
   padding: 25px 20px 0 30px;
   margin: 0;
   padding-top: 25px;
