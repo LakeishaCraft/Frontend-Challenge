@@ -47,6 +47,14 @@ div.arrow-left {
   width: 375px;
 }
 
+/*tabbar*/
+.tabbar {
+  background-image: url(images/TabBar.png);
+  background-color: #003470;
+  background-position: bottom;
+  display: block;
+}
+
 /*Busroute details*/
 div.busstop {
   padding: 20px 0 0 10px;
