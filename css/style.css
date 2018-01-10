@@ -13,7 +13,7 @@ body {
 .container {
   margin: 0 auto;
   width: 375px;
-  height: 669px;
+  height: 667px;
   background-color: #E0E0E0;
 }
 
@@ -22,11 +22,12 @@ body {
   background-image: url(images/StatusBar.png);
   background-position: top;
   display: block;
+  background-color: #004798;
 }
 
 .nav {
   padding: 5px;
-  background-color: #003470;
+  background-color: #004798;
   color: #003470;
   height: 100px;
   width: 375px;  
@@ -55,6 +56,7 @@ div.arrow-left {
   display: block;
   position: fixed;
   width: 375px;
+  height: 667px;
 }
 
 /*Busroute details*/
