@@ -135,34 +135,6 @@ div.destinationSB2 {
   text-align: left;
 }
 
-div.destination1rr {
-  padding: 13px 0 0 26px;
-  margin: 0;
-  float: left;
-  text-align: left;
-}
-
-div.destination1oos {
-  padding: 20px 0 0 32px;
-  margin: 0;
-  float: left;
-  text-align: left;
-}
-
-div.destination2oos {
-  padding: 20px 0 0 26px;
-  margin: 0;
-  float: left;
-  text-align: left;
-}
-
-div.destination3oos{
-  padding: 12px 0 0 20px;
-  margin: 0;
-  float: left;
-  text-align: left;
-}
-
 div.frequency {
   padding: 15px 15px 0 0;
   margin: 0;
@@ -179,7 +151,7 @@ div.frequencyNA {
 }
 
 div.frequencyresumes {
-  padding: 15px 20px 0 0;
+  padding: 0px 15px;
   margin: 0;
   float: right;
   text-align: left;
