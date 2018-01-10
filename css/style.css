@@ -48,7 +48,7 @@ div.arrow-left {
 }
 
 /*tabbar*/
-.fxed {
+.fixed {
   background-image: url(images/TabBar.png);
   background-color: #003470;
   background-position: bottom;
