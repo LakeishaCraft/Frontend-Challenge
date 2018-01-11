@@ -23,6 +23,10 @@ body {
   background-position: top;
   display: block;
   background-color: #004798;
+  position:fixed;
+  top:0px;
+  right:0px;
+  left:0px;
 }
 
 .nav {
@@ -48,11 +52,8 @@ div.arrow-left {
 }
 
 /*tabbar*/
-.fixed {
+.tabbar {
   background-image: url(images/TabBar.png);
-  background-color: #003470;
-  background-position: bottom;
-  display: block;
   width: 375px;
   position:fixed;
   top: 49px;
