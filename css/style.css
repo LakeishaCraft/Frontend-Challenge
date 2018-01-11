@@ -21,13 +21,14 @@ body {
 .statusbar {
   background-image: url(images/StatusBar.png);
   background-position: top;
-  display: block;
   background-color: #004798;
   position:fixed;
   top:0px;
   right:0px;
   left:0px;
+  display: block; 
 }
+
 
 .nav {
   padding: 5px;
@@ -37,6 +38,7 @@ body {
   width: 375px;  
 }
 
+
 div.arrow-left {
   color: #FFFFFF;
   margin: 0px;
@@ -44,12 +46,14 @@ div.arrow-left {
   height: 0px;
   width: 0px;
 }
+
  
 .board {
   background-color: #003470;
   padding: 10px;
   width: 375px;
 }
+
 
 /*tabbar*/
 .tabbar {
@@ -59,7 +63,9 @@ div.arrow-left {
   top: 49px;
   right:0px;
   left:0px;
+  display: center;
 }
+
 
 /*Busroute details*/
 div.busstop {
