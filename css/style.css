@@ -34,7 +34,7 @@ body {
   padding: 5px;
   background-color: #004798;
   color: #003470;
-  height: 100px;
+  height: 200px;
   width: 375px;  
 }
 
@@ -271,7 +271,7 @@ h4 {
   letter-spacing: .09em;
 }
 
-/*spacing between words/sentences */
+/*spacing*/
 h2 {
   line-height: 1.2em;
 }
