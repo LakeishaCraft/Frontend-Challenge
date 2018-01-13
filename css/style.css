@@ -48,6 +48,16 @@ div.arrow-left {
   display: list-item;
 }
 
+
+div.ellipsis-right {
+  color: #FFFFFF;
+  margin: 0px;
+  padding-right: 10px;
+  height: 0px;
+  width: 0px;
+  display: list-item;
+}
+
  
 .board {
   background-color: #003470;
