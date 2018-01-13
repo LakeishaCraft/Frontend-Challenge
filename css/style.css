@@ -45,6 +45,7 @@ div.arrow-left {
   padding-left: 10px;
   height: 0px;
   width: 0px;
+  display: list-item;
 }
 
  
@@ -213,7 +214,7 @@ h1 {
   background-color: #004798;  
   font-size: 1.3em;
   margin: 0px;
-  padding: 10px;
+  padding: 23px;
   text-align: center;
   font-weight: 550;
   color: #FFFFFF;
