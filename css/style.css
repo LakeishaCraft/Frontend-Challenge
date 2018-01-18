@@ -45,11 +45,10 @@ div.arrow-left {
   padding: 17px 0 0 10px;
   height: 11px;
   width: 10px;
-  display: list-item;
+  float: left;
 }
 
- /* display: list-item; */
-   float: left;
+   
 
 div.ellipsis-right {
   color: #FFFFFF;
