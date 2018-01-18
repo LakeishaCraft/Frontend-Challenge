@@ -42,12 +42,14 @@ body {
 div.arrow-left {
   color: #FFFFFF;
   margin: 0px;
-  padding-left: 10px;
-  height: 0px;
-  width: 0px;
+  padding: 17px 0 0 10px;
+  height: 11px;
+  width: 10px;
   display: list-item;
 }
 
+ /* display: list-item; */
+   float: left;
 
 div.ellipsis-right {
   color: #FFFFFF;
