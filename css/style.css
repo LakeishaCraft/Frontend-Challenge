@@ -12,7 +12,7 @@ body {
 
 .container {
   margin: 0 auto;
-  width: 375px;
+  width: auto;
   height: 667px;
   background-color: #E0E0E0;
 }
@@ -35,7 +35,7 @@ body {
   background-color: #003470;
   color: #003470;
   height: 200px;
-  width: 375px;  
+  width: auto;  
 }
 
 
@@ -63,14 +63,14 @@ div.ellipsis-right {
 .board {
   background-color: #003470;
   padding: 10px;
-  width: 375px;
+  width: auto;
 }
 
 
 /*tabbar*/
 .tabbar {
   background-image: url(images/TabBar.png);
-  width: 375px;
+  width: auto;
   position:fixed;
   top: 49px;
   right:0px;
@@ -96,7 +96,7 @@ div#main {
   font-family: sans-serif;
   font-size: 1em;
   margin: 0 auto 0 auto;
-  width: 375px;
+  width: auto;
   overflow: scroll;
   overflow-x: hidden;
 }
@@ -108,7 +108,7 @@ div#main {
   font-weight: 400;
   padding: 5px;
   height: 75px;
-  width: 375px;
+  width: auto;
 }
 
 div.busstop {
