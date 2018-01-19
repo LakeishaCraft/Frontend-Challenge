@@ -22,7 +22,6 @@ body {
   background-image: url(images/StatusBar.png);
   background-position: top;
   background-color: rgba(0, 52, 115, 1);
-  position:fixed;
   top:0px;
   right:0px;
   left:0px;
@@ -71,7 +70,6 @@ div.ellipsis-right {
 .tabbar {
   background-image: url(images/TabBar.png);
   width: auto;
-  position:fixed;
   top: 49px;
   right:0px;
   left:0px;
