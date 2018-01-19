@@ -6,8 +6,7 @@ body {
   background-color: #E0E0E0;
   font-family: sans-serif;
   font-size: 16px;
-  color: black;
-  width: auto;
+  width: max-content;
 }
 
 .container {
