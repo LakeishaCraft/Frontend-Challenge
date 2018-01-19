@@ -22,6 +22,7 @@ body {
   background-image: url(images/StatusBar.png);
   background-position: top;
   background-color: rgba(0, 52, 115, 1);
+  width: auto;
   top:0px;
   right:0px;
   left:0px;
