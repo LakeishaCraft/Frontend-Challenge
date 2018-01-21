@@ -29,9 +29,9 @@ body {
 
 .nav {
   padding: 5px;
-  background-color: #003470;
-  color: #003470;
   height: 200px;
+  background: linear-gradient(to bottom, #003470 0%, #115CB3 100%)
+  color: #003470;
   width: auto;  
 }
 
