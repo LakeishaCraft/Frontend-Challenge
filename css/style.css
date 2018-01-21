@@ -230,10 +230,9 @@ h1 {
 h2 {
   background-color: #FFFFFF;
   color: #4A4A4A;
-  font-size: 1.2em;
-  font-weight: 550;
-  margin: auto;
-  padding: 0px;  
+  font-size: 1.4em;
+  font-weight: 500;
+  margin: auto;   
 }
 
 /*line*/
@@ -241,7 +240,7 @@ h3 {
   background-color: #FFFFFF;
   color: 4A4A4A;
   font-size: 1.3em;
-  font-weight: 550;
+  font-weight: 500;
   margin: 0;
   padding: 0; 
   display: inline;
@@ -267,7 +266,7 @@ h5 {
 
  /*spacing between letters*/
 h2 {
-  letter-spacing: .07em;
+  letter-spacing: .09em;
 }
 
 h3 {
@@ -280,7 +279,7 @@ h4 {
 
 /*spacing*/
 h2 {
-  line-height: 1.2em;
+  line-height: .9em;
 }
 
 h3 {
