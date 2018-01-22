@@ -166,7 +166,7 @@ div#main {
  .frequency {
   position: relative;
   top: 20px;
-  width: 70px; 
+  width: 60px; 
   float: right;
 }
 
@@ -180,11 +180,11 @@ div#main {
  .frequencyresumes {
   position: relative;
   top: 18px;
-  right: 10px;
+  right: 2px;
   float: right;   
 }
 
-/*Washington and State*/
+/*Destination: Devon/Clark*/
 h1 {
   background-color: #003470;  
   font-size: 1.3em;
@@ -258,11 +258,6 @@ h3 {
 h4 {
   line-height: 2.0em;
 }
-
-.alert {
-  color: red;
-}
-
 
 /* For mobile phones: */
 [class*="col-"] {
