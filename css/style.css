@@ -26,7 +26,6 @@ body {
   display: block; 
 }
 
-
 .nav {
   padding: 5px;
   height: 200px;
@@ -35,17 +34,13 @@ body {
   width: auto;  
 }
 
-
  .arrow-left {
   color: #FFFFFF;
-  margin: 0px;
-  padding: 17px 0 0 10px;
-  height: 11px;
-  width: 10px;
-  float: left;
-}
-
-   
+  pposition: relative;
+  top: 18px;
+  right: -10px;
+  float: left; 
+}  
 
  .ellipsis-right {
   color: #FFFFFF;
@@ -78,8 +73,9 @@ body {
  .busstop {
   color: #003470;   
   position: relative; 
+  top: 15px;
+  right: -10px; 
   float: left;
-  top: 15px; 
 }
   
  .arrow {
@@ -118,7 +114,7 @@ div#main {
  .destinationEB1 {
   position: relative;
   top: 20px;
-  right: -40px; 
+  right: -50px; 
   float: left;
 }
 
@@ -153,21 +149,21 @@ div.destinationSB2 {
 div.destinationSB3 {
   position: relative;
   top: 20px;
-  right: -40px; 
+  right: -50px; 
   float: left;
 }
 
 div.destinationSB4 {
   position: relative;
   top: 20px;
-  right: -40px; 
+  right: -60px; 
   float: left;
 }
 
 div.destinationSB5 {
   position: relative;
   top: 20px;
-  right: -40px; 
+  right: -50px; 
   float: left;
 }
 
@@ -181,7 +177,7 @@ div.destinationSB6 {
  .frequency {
   position: relative;
   top: 20px;
-  width: 80px; 
+  width: 70px; 
   float: right;
 }
 
@@ -193,10 +189,10 @@ div.destinationSB6 {
 }
 
  .frequencyresumes {
-  padding: 15px 10px 5px 10px;
-  margin: 0;
-  float: right;
-  text-align: left;
+  position: relative;
+  top: 18px;
+  right: 10px;
+  float: right;   
 }
 
 /*Washington and State*/
