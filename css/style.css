@@ -76,14 +76,15 @@ body {
 
 /*Busroute details*/
  .busstop {
-  padding: 20px 0 0 10px;
-  color: #003470 
+  color: #003470;   
+  position: relative; 
+  float: left;
+  top: 15px; 
 }
   
  .arrow {
   color: #C7C7CC;
-  margin: 0px;
-  padding: 20px 10px 0 0;  
+  padding: 14px 10px 0 0;  
   float: right;
 }     
 
@@ -98,7 +99,7 @@ div#main {
 }
 
  .routelist {
-  background-color: white;
+  background-color: #FFFFFF;
   border-bottom: 1px solid #E0E0E0;
   font-size: .75em;
   font-weight: 400;
@@ -107,96 +108,80 @@ div#main {
   width: auto;
 }
 
- .busstop {
-  padding: 20px 0 0 10px;
-  margin: 0;
-  float: left;
-  color: #003470;
-}
-
  .linenumber {
-  padding: 28px 0 0 10px;
-  margin: 0;
-  float: left;
-  display: inline; 
+  position: relative;
+  top: 20px;
+  right: -10px; 
+  float: left;   
 }
 
-div.destinationEB1 {
-  padding: 25px 20px 0 40px;
-  margin: 0;
-  padding-top: 25px;
+ .destinationEB1 {
+  position: relative;
+  top: 20px;
+  right: -40px; 
   float: left;
-  text-align: left;
 }
 
 div.destinationEB2 {
-  padding: 25px 20px 0 30px;
-  margin: 0;
-  padding-top: 25px;
+  position: relative;
+  top: 20px;
+  right: -40px; 
   float: left;
-  text-align: left;
 }
 
 div.destinationNB1 {
-  padding: 25px 20px 0 30px;
-  margin: 0;
-  padding-top: 25px;
+  position: relative;
+  top: 20px;
+  right: -40px; 
   float: left;
-  text-align: left;
 }
 
 div.destinationSB1 {
-  padding: 25px 20px 0 30px;
-  margin: 0;
-  padding-top: 25px;
+  position: relative;
+  top: 20px;
+  right: -40px; 
   float: left;
-  text-align: left;
 }
 
 div.destinationSB2 {
-  padding: 25px 20px 0 30px;
-  margin: 0;
-  padding-top: 25px;
+  position: relative;
+  top: 20px;
+  right: -40px; 
   float: left;
-  text-align: left;
 }
 
 div.destinationSB3 {
-  padding: 30px 20px 0 40px;
-  margin: 0;
-  padding-top: 25px;
+  position: relative;
+  top: 20px;
+  right: -40px; 
   float: left;
-  text-align: left;
 }
 
 div.destinationSB4 {
-  padding: 15px 10px 0 50px;
-  margin: 0;
-  padding-top: 25px;
+  position: relative;
+  top: 20px;
+  right: -40px; 
   float: left;
-  text-align: left;
 }
 
 div.destinationSB5 {
-  padding: 15px 10px 0 40px;
-  margin: 0;
-  padding-top: 25px;
+  position: relative;
+  top: 20px;
+  right: -40px; 
   float: left;
-  text-align: left;
 }
 
 div.destinationSB6 {
-  padding: 25px 0px 10px 30px;
-  margin: 0;
-  padding-top: 25px;
+  position: relative;
+  top: 20px;
+  right: -40px; 
   float: left;
-  text-align: left;
 }
 
  .frequency {
   position: relative;
-  top: 26px;
-  width: 70px; 
+  top: 20px;
+  width: 80px; 
   float: right;
 }
 
