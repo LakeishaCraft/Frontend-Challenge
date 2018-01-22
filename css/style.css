@@ -41,15 +41,6 @@ body {
   right: -10px;
   float: left; 
 }  
-
- .ellipsis-right {
-  color: #FFFFFF;
-  margin: 0px;
-  padding-right: 10px;
-  height: 0px;
-  width: 0px;
-  display: list-item;
-}
  
 .board {
   background-color: #003470;
@@ -77,10 +68,9 @@ body {
   
  .arrow {
   color: #C7C7CC;
-  position: relative;  
-  float: right;
-  right: 5px;
-  top: -60px; 
+  margin: 15px;
+  right: 10px; 
+  float: right; 
 }     
 
 div#main {
