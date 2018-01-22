@@ -36,7 +36,7 @@ body {
 }
 
 
-div.arrow-left {
+ .arrow-left {
   color: #FFFFFF;
   margin: 0px;
   padding: 17px 0 0 10px;
@@ -47,7 +47,7 @@ div.arrow-left {
 
    
 
-div.ellipsis-right {
+ .ellipsis-right {
   color: #FFFFFF;
   margin: 0px;
   padding-right: 10px;
@@ -75,12 +75,12 @@ div.ellipsis-right {
 
 
 /*Busroute details*/
-div.busstop {
+ .busstop {
   padding: 20px 0 0 10px;
   color: #003470 
 }
   
-div.arrow {
+ .arrow {
   color: #C7C7CC;
   margin: 0px;
   padding: 20px 10px 0 0;  
@@ -97,7 +97,7 @@ div#main {
   overflow-x: hidden;
 }
 
-.routelist {
+ .routelist {
   background-color: white;
   border-bottom: 1px solid #E0E0E0;
   font-size: .75em;
@@ -107,14 +107,14 @@ div#main {
   width: auto;
 }
 
-div.busstop {
+ .busstop {
   padding: 20px 0 0 10px;
   margin: 0;
   float: left;
   color: #003470;
 }
 
-div.linenumber {
+ .linenumber {
   padding: 28px 0 0 10px;
   margin: 0;
   float: left;
@@ -193,22 +193,21 @@ div.destinationSB6 {
   text-align: left;
 }
 
-div.frequency {
-  padding: 25px 15px 0 0;
-  margin: 0;
+ .frequency {
+  position: relative;
+  top: 26px;
+  width: 70px; 
   float: right;
-  text-align: right;
-  display: inline;
 }
 
-div.frequencyNA {
+ .frequencyNA {
   padding: 22px 60px 0 0;
   margin: 0;
   float: right;
   text-align: left;
 }
 
-div.frequencyresumes {
+ .frequencyresumes {
   padding: 15px 10px 5px 10px;
   margin: 0;
   float: right;
