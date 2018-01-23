@@ -18,7 +18,7 @@ body {
 .statusbar {
   background-image: url(images/StatusBar.png);
   background-position: top;
-  background-color: rgba(0, 52, 115, 1);
+  background: rgba(0,52,112,1);
   width: auto;
   top:0px;
   right:0px;
@@ -27,10 +27,10 @@ body {
 }
 
 .nav {
+  background: rgba(0,52,112,1); 
+  color: #003470;
   padding: 5px;
   height: 200px;
-  background: linear-gradient(to bottom, #003470 0%, #115CB3 100%)
-  color: #003470;
   width: auto;  
 }
 
@@ -43,7 +43,7 @@ body {
 }  
  
 .board {
-  background-color: #003470;
+  background: #003470;
   padding: 10px;
   width: auto;
 }
