@@ -95,7 +95,7 @@ div#main {
 
  .linenumber {
   position: relative;
-  top: 20px;
+  top: 21px;
   right: -20px; 
   float: left;   
 }
@@ -165,7 +165,7 @@ div#main {
 
  .frequency {
   position: relative;
-  top: 20px;
+  top: 21px;
   width: 60px; 
   float: right;
 }
