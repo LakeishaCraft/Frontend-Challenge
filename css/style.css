@@ -60,7 +60,7 @@ body {
 /*Busroute details*/
  .busstop {
   color: #003470;   
-  width: 12%; 
+  width: 10%; 
   padding: 10px;
   padding-top: 16px; 
   float: left;
@@ -162,9 +162,8 @@ body {
 }
 
  .frequency {
-  position: relative;
-  top: 21px;
-  width: 60px; 
+  width: 14%;
+  padding-top: 2px; 
   float: right;
 }
 
