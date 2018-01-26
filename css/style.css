@@ -51,7 +51,8 @@ body {
 /*tabbar*/
 .tabbar {
   background-color: #003470;
-  height: 49px;
+  width: 25%;
+  float: left;
 }
 
 /*Busroute details*/
