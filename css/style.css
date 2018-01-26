@@ -50,11 +50,9 @@ body {
    
 /*tabbar*/
 .tabbar {
-  background-image: url(images/TabBar.png);
-  width: auto;
-  top: 49px;
-  right:0px;
-  left:0px;
+  background-color: #003470;
+  width: 440px;
+  height: 49px;
 }
 
 /*Busroute details*/
@@ -165,6 +163,12 @@ body {
   padding-top: 19px; 
   float: right; 
 }
+
+  .arrivals {
+  width: 10%
+  padding: 10px;
+  padding-top: 16px;
+  float: left;  
 
 /*Destination: Devon/Clark*/
 h1 {
