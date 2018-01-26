@@ -107,78 +107,63 @@ body {
 
  .destinationEB2 {
   position: relative;
-  top: 20px;
-  right: -40px; 
+  width: 50%;
+  padding-top: 20px;
   float: left;
 }
 
  .destinationNB1 {
-  position: relative;
-  top: 20px;
-  right: -40px; 
+  width: 50%;
+  padding-top: 20px;
   float: left;
 }
 
  .destinationSB1 {
-  position: relative;
-  top: 20px;
-  right: -40px; 
+  width: 50%;
+  padding-top: 20px;
   float: left;
 }
 
  .destinationSB2 {
-  position: relative;
-  top: 20px;
-  right: -40px; 
+  width: 50%;
+  padding-top: 20px;
   float: left;
 }
 
  .destinationSB3 {
-  position: relative;
-  top: 20px;
-  right: -50px; 
+  width: 50%;
+  padding-top: 20px;
   float: left;
 }
 
  .destinationSB4 {
-  position: relative;
-  top: 20px;
-  right: -60px; 
+  width: 50%;
+  padding-top: 20px;
   float: left;
 }
 
  .destinationSB5 {
-  position: relative;
-  top: 20px;
-  right: -50px; 
+  width: 50%;
+  padding-top: 20px;
   float: left;
 }
 
  .destinationSB6 {
-  position: relative;
-  top: 20px;
-  right: -40px; 
+  width: 50%;
+  padding-top: 20px;
   float: left;
 }
 
  .frequency {
-  width: 18%;
+  width: 19%;
   padding-top: 21px; 
   float: right;
 }
 
- .frequencyNA {
-  padding: relative;
-  top: 18px;
-  width: 50px;   
-  float: right;
-}
-
  .frequencyresumes {
-  position: relative;
-  top: 18px;
-  right: 2px;
-  float: right;   
+  width: 21%;
+  padding-top: 19px; 
+  float: right; 
 }
 
 /*Destination: Devon/Clark*/
