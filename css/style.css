@@ -82,17 +82,6 @@ body {
   overflow: scroll;
   overflow-x: hidden;
 }
-
-  #footer {
-  background-color: #003470;
-  height: 49px;  
-  width: 100%;  
-    
-  .footercontainer {
-  width: 375;
-  padding-top: 15px;
-  height: 49px;   
-  margin: 0px auto;
     
  .routelist {
   background-color: #FFFFFF;
@@ -231,16 +220,6 @@ h5 {
   margin: auto; 
   display: block;
 }
-
-h6 {
-  background-color: #003470;
-  color: #FFFFFF;
-  font-size: 1.1em;
-  font-weight: 500;
-  margin: auto; 
-  display: block;
-}
-
 
 /* For mobile phones: */
 [class*="col-"] {
