@@ -49,8 +49,13 @@ body {
 }
    
 /*tabbar*/
-.tabbar li {
+
+.tabbar {
   background-color: #003470;
+  height: 49px;
+}
+
+.tabbar li {
   width: 25%;
   float: left;
 }
