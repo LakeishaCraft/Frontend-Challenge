@@ -60,16 +60,16 @@ body {
 /*Busroute details*/
  .busstop {
   color: #003470;   
-  position: relative; 
-  top: 15px;
-  right: -10px; 
+  width: 12%; 
+  padding: 10px;
+  padding-top: 16px; 
   float: left;
 }
   
  .arrow {
   color: #C7C7CC;
-  margin: 15px;
-  right: 10px; 
+  width: 5%;
+  padding-top: 13px; 
   float: right; 
 }     
 
@@ -94,16 +94,14 @@ body {
 }
 
  .linenumber {
-  position: relative;
-  top: 21px;
-  right: -20px; 
+  width: 12%;
+  padding-top: 22px; 
   float: left;   
 }
 
  .destinationEB1 {
-  position: relative;
-  top: 20px;
-  right: -50px; 
+  width: 50%;
+  padding-top: 20px;
   float: left;
 }
 
