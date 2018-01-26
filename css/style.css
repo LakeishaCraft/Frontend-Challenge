@@ -48,6 +48,11 @@ body {
   width: auto;
 }
 
+ .footer {
+  background-color: #003470; 
+  height: 49px;
+  width: 375px; 
+   
 /*tabbar*/
 .footercontainer {
   height: 49px;
