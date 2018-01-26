@@ -49,7 +49,7 @@ body {
 }
    
 /*tabbar*/
-.tabbar {
+.tabbar li {
   background-color: #003470;
   width: 25%;
   float: left;
