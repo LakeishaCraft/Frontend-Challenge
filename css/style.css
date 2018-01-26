@@ -49,12 +49,11 @@ body {
 }
 
 /*tabbar*/
-.tabbar {
-  background-image: url(images/TabBar.png);
-  width: auto;
-  top: 49px;
-  right:0px;
-  left:0px;
+.footercontainer {
+  height: 49px;
+  width: 375px;
+  padding-top: 15px;
+  margin: 0px auto;
 }
 
 /*Busroute details*/
